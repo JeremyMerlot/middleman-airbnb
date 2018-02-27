@@ -1,0 +1,17 @@
+Paula:
+  name: 'Paula'
+  description: "good flat and bad girl"
+  city: 'sydney'
+  stars: 4
+
+Jeremy:
+ name: Jeremy
+ description: "share a sweet diner with the creme de la creme"
+ city: 'tokyo'
+ stars: 5
+
+Paul:
+ name: Paul
+ description: "The greatest cowboy of Paris, France"
+ city: 'paris'
+ stars: 2
